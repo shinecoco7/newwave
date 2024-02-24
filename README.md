@@ -1,4 +1,4 @@
-![home_page](https://github.com/shinecoco7/newwave/assets/157390879/0f2f53da-631c-437b-af39-7ec2016434c0)
+![activity_responsive](https://github.com/shinecoco7/newwave/assets/157390879/fd8a286d-1a12-476a-907e-ac6f3a8f0b76)![home_page](https://github.com/shinecoco7/newwave/assets/157390879/0f2f53da-631c-437b-af39-7ec2016434c0)
 
 # Hi, This is Team NewWave! 👋
 
@@ -33,6 +33,12 @@ Pagewise
 
 ![user_members](https://github.com/shinecoco7/newwave/assets/157390879/ad81451d-6abe-463e-8d29-51cd9846c33b)
 >>**Team Members**-This page displays the roles and names of the members of the team who are controlling and upkeeping about the device.
+
+![activity_responsive](https://github.com/shinecoco7/newwave/assets/157390879/b02d044a-be11-441b-96e1-65e8a7dc873f)
+>>**Team Discussion**-The team can freely upload about their activities summary done on a day to day basis 
+
+![tasktracker](https://github.com/shinecoco7/newwave/assets/157390879/d6c10581-2266-4ae0-b760-14320bcade77)
+>>**Task Tracker**-Here the tasks done by the device is been stored and updated.
 
 ![devicetrackkermap](https://github.com/shinecoco7/newwave/assets/157390879/d05b3e81-a4fa-4425-a6cc-00981ce98b48)
 >>**Maps**-Here I have used gmaps as a gps for the device.
