@@ -1,4 +1,4 @@
-![activity_responsive](https://github.com/shinecoco7/newwave/assets/157390879/fd8a286d-1a12-476a-907e-ac6f3a8f0b76)![home_page](https://github.com/shinecoco7/newwave/assets/157390879/0f2f53da-631c-437b-af39-7ec2016434c0)
+![home_page](https://github.com/shinecoco7/newwave/assets/157390879/0f2f53da-631c-437b-af39-7ec2016434c0)
 
 # Hi, This is Team NewWave! 👋
 
@@ -26,7 +26,7 @@ Pagewise
 >>The home page is displayed after the Login.
 
 ![notification](https://github.com/shinecoco7/newwave/assets/157390879/e4e138e8-f8c8-4492-9530-761e513626d2)
->>**Notification Page**-The notifications can be viewed here and all the daily reports of the pH sensor reports and the device report can be found.
+>>**Notification** - The notifications can be viewed here and all the daily reports of the pH sensor reports and the device report can be found.
 
 ![mainarticles](https://github.com/shinecoco7/newwave/assets/157390879/f7e9639c-dc1a-496e-b646-a50e93d716ac)
 >>**Article Page**-I have included this page so that there is an update to the world about the crisis of ocean animals and pollution.
