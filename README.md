@@ -45,6 +45,8 @@ Pagewise
 
 Application link: https://app.flutterflow.io/project/newwave-02ev53
 
+PowerPoint - https://1drv.ms/p/s!AgZtkSBNJPdmkWJVZYwSpJeWm67t?e=OrFtin
+
 
 This was my project so far!
 Thank you!
